@@ -1,4 +1,4 @@
-# Reto 2 — Cellular Automaton de tráfico con OpenMP
+# Cellular Automaton de tráfico con OpenMP
 
 Implementación serial + paralela (OpenMP) del autómata celular 1D de
 tráfico descrito por ARCHER/EPCC (`trafficmodel.pdf`). Incluye scripts
